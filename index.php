@@ -34,7 +34,6 @@ foreach ($abc as $key => $value){
 
     }
 }
-die();
 ?>
 <H1>Ưu tiên khám bệnh</H1>
 <form action="action/add.php" method="post">
